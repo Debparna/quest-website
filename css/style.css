@@ -74,6 +74,7 @@ body {
     background: -webkit-linear-gradient(to right, #1d0498, #341f97);
     background: -webkit-linear-gradient(left, #1d0498, #341f97);
     background: linear-gradient(to right, #1d0498, #341f97);
+    font-family: IBM Plex Mono;
 }
 .darker-blue{
     background: black;
@@ -1514,7 +1515,7 @@ p.artficial:before{
 /* ##### trust Area CSS ##### */
 .trust-section{
     position: relative;
-    padding: 100px 0 60px
+    padding: 80px 0 40px
 }
 .trust-item{
     background-color: #fff;
@@ -1616,7 +1617,7 @@ p.artficial:before{
     position: relative;
     z-index: 1;
     padding: 30px 20px 15px;
-    border: 1px solid #8019FD;
+    border: 1px solid #6400ffff;
     background: rgba(0,0,0,0.1);
     border-radius: 0 20px;
     margin-bottom: 30px;
