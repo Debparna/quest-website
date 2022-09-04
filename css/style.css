@@ -805,6 +805,12 @@ ol {
     height: 100vh;
     background-size: contain;
 }
+.main-ilustration2{
+    position: relative;
+    background: url(../img/core-img/13.png) no-repeat center 65%;
+    height: 100vh;
+    background-size: contain;
+}
 .main-ilustration-2{
     position: relative;
     background: url(../img/core-img/robot-1.png) no-repeat center bottom;
@@ -1511,7 +1517,7 @@ p.artficial:before{
     border-radius: 10px;
     margin-bottom: 40px;
     padding: 0 35px;
-    min-height: 205px;
+    min-height: 258px;
     padding-top: 37px;
     padding-bottom: 25px;
     /* box-shadow: 4px 4px 10px 0 rgba(168,67,253,.3);
@@ -1605,8 +1611,8 @@ p.artficial:before{
     position: relative;
     z-index: 1;
     padding: 30px 20px 15px;
-    border: 1px solid #c2a1f6;
-    background: rgba(0,0,0,0.1);
+    /* border: 1px solid #c2a1f6; */
+    background: #151515;
     border-radius: 10px 10px;
     margin-bottom: 30px;
 
