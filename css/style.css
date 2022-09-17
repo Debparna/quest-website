@@ -74,7 +74,6 @@ body {
     background: -webkit-linear-gradient(to right, #1d0498, #341f97);
     background: -webkit-linear-gradient(left, #1d0498, #341f97);
     background: linear-gradient(to right, #1d0498, #341f97);
-    font-family: IBM Plex Mono;
 }
 .darker-blue{
     background: black;
