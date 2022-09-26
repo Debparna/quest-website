@@ -74,6 +74,7 @@ body {
     background: -webkit-linear-gradient(to right, #1d0498, #341f97);
     background: -webkit-linear-gradient(left, #1d0498, #341f97);
     background: linear-gradient(to right, #1d0498, #341f97);
+    font-family: IBM Plex Mono;
 }
 .darker-blue{
     background: black;
@@ -806,7 +807,7 @@ ol {
 }
 .main-ilustration2{
     position: relative;
-    background: url(../img/core-img/13.png) no-repeat center 65%;
+    background: url(../img/core-img/13.png ) no-repeat center 65%;
     height: 100vh;
     background-size: contain;
 }
@@ -1516,7 +1517,7 @@ p.artficial:before{
     border-radius: 10px;
     margin-bottom: 40px;
     padding: 0 35px;
-    min-height: 258px;
+    min-height: 25px;
     padding-top: 37px;
     padding-bottom: 25px;
     /* box-shadow: 4px 4px 10px 0 rgba(168,67,253,.3);
